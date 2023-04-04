@@ -5,7 +5,7 @@
       "title": "culpa ullamco minim",
       "difficulty": 4,
       "nbhours": 4,
-      "description": "Reprehenderit consectetur sint dolore.",
+      "description": "Reprehenderit consectetur.",
       "tags": [
         "consectetur",
         "reprehenderit",
@@ -17,7 +17,7 @@
       "title": "reprehenderit aliqua in",
       "difficulty": 3,
       "nbhours": 3,
-      "description": "Aliquip esse aliqua quis occaecat minim veniam irure ea reprehenderit cillum dolor quis mollit aute.",
+      "description": "Aliquip esse aliqua.",
       "tags": [
         "enim",
         "amet",
@@ -29,23 +29,11 @@
       "title": "sunt magna ullamco",
       "difficulty": 19,
       "nbhours": 5,
-      "description": "Velit irure id enim in reprehenderit voluptate est id tempor.",
+      "description": "Velit irure id enim.",
       "tags": [
         "laboris",
         "dolor",
         "laboris"
-      ]
-    },
-    {
-      "id": 3,
-      "title": "culpa duis consectetur",
-      "difficulty": 10,
-      "nbhours": 5,
-      "description": "Cillum consectetur sunt ea culpa duis nulla mollit ea cillum veniam quis ad pariatur.",
-      "tags": [
-        "consequat",
-        "ut",
-        "reprehenderit"
       ]
     }
   ]
