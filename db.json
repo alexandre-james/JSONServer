@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 0,
+      "id": 1,
       "title": "culpa ullamco minim",
       "difficulty": 4,
       "nbhours": 4,
@@ -13,7 +13,7 @@
       ]
     },
     {
-      "id": 1,
+      "id": 2,
       "title": "reprehenderit aliqua in",
       "difficulty": 3,
       "nbhours": 3,
@@ -25,7 +25,7 @@
       ]
     },
     {
-      "id": 2,
+      "id": 3,
       "title": "sunt magna ullamco",
       "difficulty": 19,
       "nbhours": 5,
@@ -36,5 +36,8 @@
         "laboris"
       ]
     }
-  ]
+  ],
+  "profile": {
+    "name": "alex"
+  }
 }
